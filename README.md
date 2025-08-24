@@ -1,7 +1,7 @@
 # Hi 👋, I'm Mozahidur Rahaman  
 🎓 B.Tech CSE Student | 💻 Web Developer | 🌐 Tech Enthusiast  
 
----
+
 
 ## 🚀 About Me
 - 🌱 Currently learning **Full Stack Web Development**  
@@ -9,7 +9,7 @@
 - 📚 Passionate about building **real-world projects**  
 - 🤝 Open to collaboration and contributing to open source  
 
----
+
 
 ## 🛠️ Tech Stack
 - **Languages:** C, C++, Java, JavaScript, Python  
@@ -19,7 +19,7 @@
 - **Tools:** Git, GitHub, VS Code  
 
 
----
+
 
 ## 🌐 Connect With Me
 - 📧 Email: dev.mozahidur@gmail.com  
