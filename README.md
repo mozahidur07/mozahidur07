@@ -4,7 +4,7 @@
 
 
 ## 🚀 About Me
-- 🌱 Currently learning **Full Stack Web Development**  
+- 🌱 Currently learning **Full Stack Web Development and Android App Development**  
 - 💡 Exploring **React, Next.js, and Supabase**  
 - 📚 Passionate about building **real-world projects**  
 - 🤝 Open to collaboration and contributing to open source  
@@ -12,11 +12,11 @@
 
 
 ## 🛠️ Tech Stack
-- **Languages:** C, C++, Java, JavaScript, Python  
-- **Frontend:** HTML, CSS, Tailwind, React.js, Next.js  
+- **Languages:** C, Kotlin (With Jetpack), JavaScript, Python  
+- **Frontend:** HTML, CSS, Tailwind, React.js 
 - **Backend:** Node.js, Express.js  
-- **Databases:** Firebase, MongoDB, Supabse  
-- **Tools:** Git, GitHub, VS Code  
+- **Databases:** Firebase, MongoDB, Supabse, PostgreSQL (SQL DB)  
+- **Tools:** Git, GitHub, VS Code, AndroidStudio  
 
 
 
