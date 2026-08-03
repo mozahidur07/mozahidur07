@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 - 🌱 Currently learning **Full Stack Web Development and Android App Development**  
-- 💡 Exploring **React, Next.js, and Supabase**  
+- 💡 Exploring **React, Next.js, and Kotlin**  
 - 📚 Passionate about building **real-world projects**  
 - 🤝 Open to collaboration and contributing to open source  
 
@@ -24,4 +24,4 @@
 ## 🌐 Connect With Me
 - 📧 Email: dev.mozahidur@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mozahidur07/)
-- 🌍 [Portfolio Website](https://mozahidur.vercel.app/)  
+- 🌍 [Portfolio Website](https://mozahidur.online/)  
